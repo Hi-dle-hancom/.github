@@ -21,7 +21,7 @@
 ```
 ┌─────────────┐      ┌──────────────┐      ┌─────────────┐
 │   Frontend  │─────▶│   Backend    │─────▶│  AI Server  │
-│   (Vue.js)  │      │ (Spring Boot)│      │   (vLLM)    │
+│   (Vue.js)  │      │ (FastAPI)│      │   (vLLM)    │
 └─────────────┘      └──────────────┘      └─────────────┘
                             │
                             ▼
@@ -37,10 +37,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
-### Backend  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### AI/ML
 ![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat-square)
@@ -52,7 +51,7 @@
 | Repository | 설명 | 기술 스택 |
 |-----------|------|----------|
 | [frontend](https://github.com/Hi-dle-hancom/frontend) | 사용자 인터페이스 | Vue.js, TypeScript |
-| [backend](https://github.com/Hi-dle-hancom/backend) | RESTful API 서버 | Spring Boot, Java |
+| [backend](https://github.com/Hi-dle-hancom/backend) | RESTful API 서버 | FastAPI, Java |
 | [AI](https://github.com/Hi-dle-hancom/AI) | AI 모델 추론 서버 | Python, FastAPI |
 | [vLLM-LoRA-Server-Prompt-Engineering](https://github.com/Hi-dle-hancom/vLLM-LoRA-Server-Prompt-Engineering) | LLM 서버 & 프롬프트 | vLLM, LoRA |
 | [Data_process](https://github.com/Hi-dle-hancom/Data_process) | 데이터 전처리 파이프라인 | Python |
