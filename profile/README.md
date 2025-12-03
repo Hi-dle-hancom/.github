@@ -64,7 +64,7 @@
 |---------|------|------|----------|
 | 팀장 | 김성윤 | 프로젝트 개발 총괄 | - LLM 모델 파인튜닝 (메인 담당)<br>- LLM 모델 서빙 및 관련 서버 관리<br>- 전체 기술 방향성 제시 및 리드<br>- email: seongyungim428@gmail.com |
 | 팀원 | 이도선 | PM 및 백엔드 개발 | - 백엔드 API 서버 개발 (FastAPI 기반 구축)<br>- 프론트엔드 개발 (Extension)<br>- email: doseon1226@gmail.com |
-| 팀원 | 김건희 | 개발 리드 | - LLM 모델 파인튜닝<br>- DevOps (배포 자동화, 인프라 관리)<br>- 데이터 크롤링<br>- DB<br>- 백엔드 서버 구축<br>- email: k1212gh@gmail.com |
+| 팀원 | 김건희 | 개발 리드 | - LLM 모델 파인튜닝<br>- DevOps (배포 자동화, 인프라 관리)<br>- 데이터 크롤링<br>- DB<br>- AI 모델 서버 구축 (vLLM-LoRA 기반)<br>- email: k1212gh@gmail.com |
 | 팀원 | 전송이 | 데이터 엔지니어링 | - 데이터 전처리 및 가공 알고리즘 설계 (메인 담당)<br>- 데이터 검증 및 분석<br>- 발표 자료 준비<br>- email: songyi.9801@daum.net |
 | 팀원 | 전윤재 | 데이터 및 프론트엔드 개발 | - 데이터 전처리 및 가공 구현<br>- 프론트엔드 개발 (Web UI 구현, 후반 작업 지원)<br>- email: gyuhyeonjeon4@gmail.com |
 | 팀원 | 민성원 | 데이터 수집 및 프론트엔드 개발 | - 데이터 크롤링<br>- email: m3238190@naver.com (github) |
